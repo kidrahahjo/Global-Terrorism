@@ -16,5 +16,7 @@ The [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd) (GTD) is a
 See the [GTD Codebook](https://start.umd.edu/gtd/downloads/Codebook.pdf) for important details on data collection methodology, definitions, and coding schema.
 
 ## Hypothesis
-1. More `Criterion 1` terror attacks happen in India than United States.
-- Fail to reject the null
+### More `Criterion 1` terror attacks happen in India than United States.
+1. Significance Level: 95%
+2. Evaluated p value: 0.0014
+3. Fail to reject the null
