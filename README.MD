@@ -20,3 +20,4 @@ See the [GTD Codebook](https://start.umd.edu/gtd/downloads/Codebook.pdf) for imp
 1. Significance Level: 95%
 2. Evaluated p value: 0.0014
 3. Fail to reject the null
+4. [Link to analysis](https://github.com/kidrahahjo/Global-Terrorism/blob/master/Analysis/Hypothesis%201.ipynb)
