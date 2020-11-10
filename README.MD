@@ -15,6 +15,10 @@ The [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd) (GTD) is a
 
 See the [GTD Codebook](https://start.umd.edu/gtd/downloads/Codebook.pdf) for important details on data collection methodology, definitions, and coding schema.
 
+## Uploaded Data Sources
+1. Population density of [India](https://www.macrotrends.net/countries/IND/india/population-density#:~:text=The%20population%20density%20of%20India,a%201.04%25%20increase%20from%202017.)
+2. Population density of [USA](https://www.macrotrends.net/countries/USA/united-states/population-density#:~:text=The%20population%20density%20of%20U.S.,a%200.64%25%20increase%20from%202016.)
+
 ## Hypothesis
 ### Equal number of successful `Criterion 1` terror attacks happen in India and United States.
 1. [Link to analysis](https://github.com/kidrahahjo/Global-Terrorism/blob/master/Analysis/Hypothesis%201.ipynb)
