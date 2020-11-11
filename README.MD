@@ -22,6 +22,11 @@ See the [GTD Codebook](https://start.umd.edu/gtd/downloads/Codebook.pdf) for imp
 ## Hypothesis
 ### Equal number of successful `Criterion 1` terror attacks happen in India and United States.
 1. [Link to analysis](https://github.com/kidrahahjo/Global-Terrorism/blob/master/Analysis/Hypothesis%201.ipynb)
+2. Rejected the null hypothesis
+3. Tests conducted: ANOVA, Student's t-test (two-tailed)
+4. Level of significance (α) = 0.05
+5. ANOVA: F<sub>critical</sub> = 3.957, F<sub>obtained</sub> = 11.75, P = 0.0009
+6. t-test (two-tailed): Degrees of Freedom = 82, |t<sub>obtained</sub>| = 16.749, P ≈ 0
 
 ## Short Descriptions
 Please note that all the descriptions are copied from the [GTD Codebook](https://start.umd.edu/gtd/downloads/Codebook.pdf).
